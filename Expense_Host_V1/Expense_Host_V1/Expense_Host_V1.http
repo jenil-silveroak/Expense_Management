@@ -1,0 +1,6 @@
+@Expense_Host_V1_HostAddress = http://localhost:5003
+
+GET {{Expense_Host_V1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
